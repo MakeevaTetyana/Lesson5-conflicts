@@ -1,1 +1,2 @@
 file conflict 1
+conflict third line main branch

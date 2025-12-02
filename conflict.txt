@@ -1,1 +1,2 @@
 file conflict 1
+file conflict 2 first branch
